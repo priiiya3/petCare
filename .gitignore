@@ -16,5 +16,4 @@
 .env.development.local
 .env.test.local
 .env.production.local
-
-
+.the-secret-322708-firebase-adminsdk-vtp9m-4fe87906a0.json
